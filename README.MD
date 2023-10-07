@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Frontend Challange</h1>  
+  <h1>Frontend Interview</h1>  
 </div>
 
 ## About
