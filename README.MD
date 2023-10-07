@@ -66,12 +66,12 @@ Open http://localhost:5173
 
 ## Snapshots
 
-![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/images/image1.png 'All data')
+![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/screenshots/image1.png 'All data')
 
-![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/images/image2.png 'All data')
+![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/screenshots/image2.png 'All data')
 
-![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/images/image3.png 'All data')
+![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/screenshots/image3.png 'All data')
 
-![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/images/image4.png 'All data')
+![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/screenshots/image4.png 'All data')
 
-![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/images/image5.png 'All data')
+![Alt text](https://github.com/jpbizantino/frontend-interview/blob/main/screenshots/image5.png 'All data')
