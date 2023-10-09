@@ -5,7 +5,7 @@
 ## About
 
 - Author: Juan Pablo Bizantino
-- Date: Octuber 2023
+- Date: October 2023
 
 ## Libraries, Frameworks, Utilities, Misc
 
